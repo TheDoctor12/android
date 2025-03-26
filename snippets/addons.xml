@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="luk1337/android_vendor_extra" path="vendor/extra" />
+  <project name="MindTheGapps/vendor_gapps" path="vendor/gapps" remote="gitlab" revision="vic" />
+  <project path="vendor/certification" name="crdroidandroid/android_vendor_certification" remote="github" revision="15.0" />
+  <project path="external/fonts-extra" name="KusumaOS/android_external_fonts-extra" remote="github" revision="lineage-20.0" />
+</manifest>
